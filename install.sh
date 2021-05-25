@@ -149,7 +149,7 @@ function update_grub() {
 }
 
 function main() {
-    splash 'ChrisTechTips Grub2 Theme Installer'
+    splash 'Grub2 Theme Installer'
 
     check_root
     select_theme
